@@ -1,0 +1,19 @@
+img{
+    border-radius: 10px;
+}
+a{
+    color: cadetblue;
+    caret-color: blueviolet;
+}
+a:link{
+    color:black
+}
+a:visited{
+    color: gray;
+}
+a:hover{
+    color:chartreuse
+}
+a:active{
+    color:coral
+}
